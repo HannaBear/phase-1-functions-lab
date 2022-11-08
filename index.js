@@ -1,1 +1,8 @@
-// Code your solution in this file!
+
+const pLocation = 50;
+
+
+function distanceFromHqInBlocks( pLocation) {
+    return (42 - pLocation)
+
+};
